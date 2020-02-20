@@ -1,3 +1,3 @@
 # portfolio-app
 
-First contributor: Sergiu,
+First contributor: Sergiu, Dobrovolschi
